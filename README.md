@@ -1,21 +1,46 @@
-# Hi, I'm Fırat Karadağ 👋
+Hi, I'm Fırat Karadağ 👋
 
-Design Engineering & Computer Science Student  
-Focused on manufacturing-aware product design and hybrid physical-digital systems.
+AI & Data Science student exploring how complex systems both physical and digital can be understood through structured modelling and data.
 
-## 🔧 Technical Skills
-- SolidWorks (3D modeling, assemblies, technical drawings)
-- CNC Machining (Fanuc & Siemens)
-- 2D ↔ 3D technical drawing conversion
-- Manufacturing constraints & tolerance thinking
-- Programming (Computer Science background)
+My background bridges:
 
-## ⚙️ Engineering Mindset
-I design with production in mind.  
-Every geometry decision considers manufacturability, tooling, and cost.
+• Engineering thinking
+• Infrastructure systems
+• Software modelling
 
-## 🚀 Current Focus
-- CNC-driven mechanical systems
-- Parametric design optimization
-- Integrating software thinking into physical product design
+🔧 Technical Skills
 
+SolidWorks (3D modelling & assemblies)
+
+CNC Machining (Fanuc & Siemens)
+
+Systems modelling (Java)
+
+Network environment design (Cisco Packet Tracer)
+
+Programming fundamentals
+
+⚙️ Systems Mindset
+
+I approach environments whether mechanical or digital as structured systems.
+
+From manufacturing constraints to network architectures, I focus on:
+
+• How systems behave
+• What data they generate
+• How structure influences performance
+
+🚀 Current Focus
+
+Data-driven system understanding
+
+Infrastructure as structured environments
+
+Bridging physical systems with digital modelling
+
+🧩 Featured Project
+Network Project Manager
+
+Models infrastructure components such as subnets, devices and services as structured environments.
+
+🔗 https://github.com/karadf812/network-project-manager
