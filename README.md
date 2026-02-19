@@ -1,6 +1,6 @@
 # Hi, I'm Fırat Karadağ 👋
 
-AI & Data Science student exploring how complex systems — both physical and digital — can be understood through structured modelling and data.
+AI & Data Science student exploring how complex systems both physical and digital can be understood through structured modelling and data.
 
 My background bridges:
 
@@ -22,7 +22,7 @@ My background bridges:
 
 ## ⚙️ Systems Mindset
 
-I approach environments — whether mechanical or digital — as structured systems.
+I approach environments whether mechanical or digital as structured systems.
 
 From manufacturing constraints to network architectures, I focus on:
 
