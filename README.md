@@ -1,48 +1,36 @@
-# Hi, I'm Fırat Karadağ 👋
+Hi, I'm Fırat 👋
 
-AI & Data Science student exploring how complex systems both physical and digital can be understood through structured modelling and data.
+Computer Science student interested in how systems remain stable, secure, and operational in real-world environments.
 
-My background bridges:
+My projects explore how infrastructure behaves under pressure — from monitoring system resources to simulating network failure and managing access control.
 
-• Engineering thinking  
-• Infrastructure systems  
-• Software modelling  
+I’m particularly interested in understanding:
 
----
+• What happens when systems fail
+• How availability is affected
+• How access boundaries protect operations
 
-## 🔧 Technical Skills
+🔧 Technical Skills
 
-- SolidWorks (3D modelling & assemblies)  
-- CNC Machining (Fanuc & Siemens)  
-- Systems modelling (Java)  
-- Network environment design (Cisco Packet Tracer)  
-- Programming fundamentals  
+Python
+Java
+Git
+Linux
+Cisco Packet Tracer
 
----
+⚙️ Areas of Interest
 
-## ⚙️ Systems Mindset
+Infrastructure reliability
+Network resilience
+Access control & operational safety
 
-I approach environments whether mechanical or digital as structured systems.
+🚀 Current Focus
 
-From manufacturing constraints to network architectures, I focus on:
+Exploring how monitoring, resilience, and security contribute to stable system environments.
 
-• How systems behave  
-• What data they generate  
-• How structure influences performance  
+📌 Featured Project
 
----
+Network Resilience Simulator
+Simulates node failure and recovery in distributed systems.
 
-## 🚀 Current Focus
-
-- Data-driven system understanding  
-- Infrastructure as structured environments  
-- Bridging physical systems with digital modelling  
-
----
-
-## 🧩 Featured Project
-
-### Network Project Manager  
-Models infrastructure components such as subnets, devices and services as structured environments.
-
-🔗 https://github.com/karadf812/network-project-manager
+🔗 https://github.com/karadf812/network-resilience-simulator
