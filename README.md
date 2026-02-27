@@ -2,7 +2,7 @@ Hi, I'm Fırat 👋
 
 Computer Science student interested in how systems remain stable, secure, and operational in real-world environments.
 
-My projects explore how infrastructure behaves under pressure — from monitoring system resources to simulating network failure and managing access control.
+My projects explore how infrastructure behaves under pressure from monitoring system resources to simulating network failure and managing access control.
 
 I’m particularly interested in understanding:
 
